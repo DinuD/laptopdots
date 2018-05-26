@@ -1,0 +1,4 @@
+# Dark theme.
+rofi.theme: ~/.config/rofi/theme.rasi
+rofi.modi: run,drun
+rofi.font: xos4 Terminus 12
